@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1678982798 source:c:\open cv\code\rgbyk detector\main.cpp
+	<opencv2/opencv.hpp>
+

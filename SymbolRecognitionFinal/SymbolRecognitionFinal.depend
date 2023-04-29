@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1682436112 source:c:\open cv\code\symbolrecognitionfinal\main.cpp
+	<opencv2/opencv.hpp>
+
